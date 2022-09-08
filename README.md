@@ -24,7 +24,7 @@ Nosso público-alvo são pessoas que viajam ou se interessam por viagens, sejam 
   `git clone git@github.com:jeanwilker/projeto-integrador.git` <br>
   
 - Entrar no repositório: <br>
-  `cd trail` <br>
+  `cd projeto-trail` <br>
   
 - Instalar dependências: <br>
   `npm install` <br>

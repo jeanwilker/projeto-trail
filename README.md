@@ -60,6 +60,6 @@ Nosso público-alvo são pessoas que viajam ou se interessam por viagens, sejam 
 <h6>Figma: <br>
 https://www.figma.com/file/qeK9X287oma8fMxfOJ4xld/dev-strangers?node-id=0%3A1</h6>
 <h6>Visualize e interaja: <br>
-https://projeto-integrador-git-feature20-madalena-rocha.vercel.app/</h6>
+https://trail-test.netlify.app/</h6>
 
 </div>
